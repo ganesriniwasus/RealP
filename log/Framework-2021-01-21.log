@@ -1,0 +1,7 @@
+21:22:01.768 [main] INFO  RealProject.RealP.HomePage - Sign in clicked
+21:22:02.430 [main] INFO  RealProject.RealP.HomePage - browser closed
+21:22:06.732 [main] INFO  RealProject.RealP.HomePage - driver initialization completed successfully
+21:22:11.856 [main] INFO  RealProject.RealP.HomePage - Url successfully opened
+21:22:13.689 [main] INFO  RealProject.RealP.HomePage - Sign in clicked
+21:22:14.209 [main] ERROR java.lang.Class - Invalid email or password.
+21:22:18.525 [main] INFO  RealProject.RealP.HomePage - driver initialization completed successfully

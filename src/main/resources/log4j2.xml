@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Configuration status="WARN">
+	<Appenders>
+		<Rollingfile name="File" filename="log//framework.log" filePattern="log//Framework-%d{yyyy-MM-dd}.log">
+			<PatternLayout pattern="%d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n" />
+			<SizeBasedTriggeringPolicy size="500" />
+		</Rollingfile>
+		<Console name="Console" target="SYSTEM_OUT">
+			<PatternLayout
+				pattern="%d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n" />
+		</Console>
+	</Appenders>
+	<Loggers>
+		<logger name ="RealProject.RealP.HomePage" level="trace">
+			<AppenderRef ref ="Console"/>
+		</logger>
+		<Root level="error">
+			<AppenderRef ref="File" />
+		</Root>
+	</Loggers>
+</Configuration>

@@ -1,0 +1,6 @@
+13:45:25.408 [TestNG-test=Login-1] INFO  RealProject.RealP.HomePage - Url successfully opened
+13:45:27.959 [TestNG-test=Login-1] INFO  RealProject.RealP.HomePage - Sign in clicked
+13:45:28.446 [TestNG-test=Login-1] ERROR java.lang.Class - Invalid email or password.
+13:45:33.314 [TestNG-test=Login-1] INFO  RealProject.RealP.HomePage - driver initialization completed successfully
+13:45:38.199 [TestNG-test=Login-1] INFO  RealProject.RealP.HomePage - Url successfully opened
+13:45:40.123 [TestNG-test=Login-1] INFO  RealProject.RealP.HomePage - Sign in clicked

@@ -1,0 +1,6 @@
+13:10:56.467 [TestNG-test=HomePage-1] INFO  RealProject.RealP.HomePage - Url successfully opened
+13:10:58.511 [TestNG-test=HomePage-1] INFO  RealProject.RealP.HomePage - Sign in clicked
+13:10:59.123 [main] INFO  RealProject.RealP.HomePage - browser closed
+13:11:02.533 [TestNG-test=Login-1] INFO  RealProject.RealP.HomePage - driver initialization completed successfully
+13:11:10.183 [TestNG-test=Login-1] INFO  RealProject.RealP.HomePage - Url successfully opened
+13:11:12.109 [TestNG-test=Login-1] INFO  RealProject.RealP.HomePage - Sign in clicked
